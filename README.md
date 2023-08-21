@@ -12,4 +12,5 @@
 ![14](https://github.com/Sou-mi/Meal-Planner/assets/81280771/52082e0f-66f5-4ec7-bc58-d8e96a631455)
 ![15](https://github.com/Sou-mi/Meal-Planner/assets/81280771/8e3806d4-2a81-4770-93e7-4360e78dc68e)
 ![Slide 16_9 - 5](https://github.com/Sou-mi/Meal-Planner/assets/81280771/9044736d-7c4d-4926-b521-c31b2c27d67f)
-![Uploading A4 - 2 (1).png…]()
+
+![A4 - 2 (1)](https://github.com/Sou-mi/Meal-Planner/assets/81280771/81302526-ac65-4bb4-b040-a5045e743f02)
